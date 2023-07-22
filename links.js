@@ -11,5 +11,5 @@ const argumentoURL = function(key) {
 
 let destino = argumentoURL('dst');
 if (destino && destino in redirigir) {
-  window.location.replace(redirigir.destino);
+  window.location.replace(redirigir[destino]);
 }
