@@ -1,4 +1,8 @@
 const redirigir = {
+  // Materiales para el taller de Arduino UBA XXII
+  ubaxxii:"https://drive.google.com/drive/folders/1YeO7L1oWRpPEZy55x7OYsE4r1oliX-ct"
+  ,
+  // Figus bloques
   figus:"https://gpfernandezflorio.github.io/milanator/?juego=figus0&toolbox=off"
   ,
   // Prefill de la encuesta inicial
