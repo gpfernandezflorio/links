@@ -1,4 +1,8 @@
+// https://gpfernandezflorio.github.io/links/?dst=
 const redirigir = {
+  // Encuesta Arduino en la Escuela
+  eaele:"https://docs.google.com/forms/d/e/1FAIpQLSfdxlCspCHJOK0xhxm69APCMqCwNtKP9ja3X307KVYQKwXT3g/viewform?usp=sf_link"
+  ,
   // Materiales para el taller de Arduino UBA XXII
   ubaxxii:"https://drive.google.com/drive/folders/1YeO7L1oWRpPEZy55x7OYsE4r1oliX-ct"
   ,
