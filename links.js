@@ -1,5 +1,8 @@
 // https://gpfernandezflorio.github.io/links/?dst=
 const redirigir = {
+  // Links de Exactas Programa Verano
+  ep:"https://docs.google.com/document/d/1QS1_7dpNvNVa0gfmmFsjgWwiTCmWnvwVNtbw_lHS7ws/edit?usp=sharing"
+  ,
   // Encuesta Arduino en la Escuela
   eaele:"https://docs.google.com/document/d/e/2PACX-1vSylfz5cjt4Iwb-k0Eqqlxn_l5Qif6if4BAT5yChlABs4wn6hu9DiZpBOmoIhz_Y6kZSHgDSSnxtVW1/pub"
   ,
