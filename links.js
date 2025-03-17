@@ -1,5 +1,8 @@
 // https://gpfernandezflorio.github.io/links/?dst=
 const redirigir = {
+  // Nota sobre IA y programación
+  ia:"https://www.xataka.com/robotica-e-ia/hay-nuevo-lenguaje-programacion-que-esta-rompiendo-moldes-ingles/amp"
+  ,
   // Links de Exactas Programa Verano
   ep:"https://docs.google.com/document/d/1QS1_7dpNvNVa0gfmmFsjgWwiTCmWnvwVNtbw_lHS7ws/edit?usp=sharing"
   ,
