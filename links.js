@@ -7,7 +7,7 @@ const redirigir = {
   ep:"https://docs.google.com/document/d/1QS1_7dpNvNVa0gfmmFsjgWwiTCmWnvwVNtbw_lHS7ws/edit?usp=sharing"
   ,
   // Encuesta Arduino en la Escuela
-  eaele:"https://docs.google.com/document/d/e/2PACX-1vSylfz5cjt4Iwb-k0Eqqlxn_l5Qif6if4BAT5yChlABs4wn6hu9DiZpBOmoIhz_Y6kZSHgDSSnxtVW1/pub"
+  eaele:"https://forms.gle/t2NjiYMygjv3uNYX7"
   ,
   // Materiales para el taller de Arduino UBA XXII
   ubaxxii:"https://drive.google.com/drive/folders/1YeO7L1oWRpPEZy55x7OYsE4r1oliX-ct"
