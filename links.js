@@ -1,5 +1,7 @@
 // https://gpfernandezflorio.github.io/links/?dst=
 const redirigir = {
+  // IP - Formulario para corrección cruzada
+  ip_cc:"https://docs.google.com/forms/d/e/1FAIpQLSd6IJZWPKly0F9VexYZyURyq1_xLEeH5Dc5jgCCGSWsmCXg3A/viewform",
   // Nota sobre IA y programación
   ia:"https://www.xataka.com/robotica-e-ia/hay-nuevo-lenguaje-programacion-que-esta-rompiendo-moldes-ingles/amp"
   ,
